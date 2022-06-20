@@ -1,0 +1,25 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Sushi"
+include ':app'
+
+include ':openCVLibrary343'
+
+include ':openCVLibrary343'
+include ':openCVLibrary343'
+include ':openCVLibrary343'
+include ':opencv'
+include ':opencv'
+include ':opencv'
